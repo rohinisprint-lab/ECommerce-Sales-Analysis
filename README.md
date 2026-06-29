@@ -28,5 +28,20 @@ A data engineering and analytics pipeline built in Python to model customer coup
    ```bash
    python analysis.py
    ```
-# ECommerce-Sales-Analysis
+# ECommerce Sales Analysis
 
+## Project Overview
+This project analyzes E-commerce sales data to understand customer behavior and coupon engagement. 
+
+## Key Insights
+* **Top Insight 1:** [Example: Customers in Tier 1 cities use 20% more coupons.]
+* **Top Insight 2:** [Example: Gender-based engagement shows higher activity in the 18-25 age bracket.]
+
+## Visualizations
+!https://github.com/rohinisprint-lab/ECommerce-Sales-Analysis/blob/main/top_cities_coupon_usage.png[Coupon Usage by City](top_cities_coupon_usage.png)
+![Gender Engagement](gender_coupon_engagement.png)
+
+## Technologies Used
+* Python
+* Pandas (Data Analysis)
+* Matplotlib/Seaborn (Visualization)
