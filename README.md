@@ -40,8 +40,10 @@ This project analyzes E-commerce sales data to understand customer behavior and 
 ## Visualizations
 !https://github.com/rohinisprint-lab/ECommerce-Sales-Analysis/blob/main/top_cities_coupon_usage.png
 ## Visualizations
-![Coupon Usage by City](top_cities_coupon_usage.png) 
-[![Gender Engagement]](https://github.com/rohinisprint-lab/ECommerce-Sales-Analysis/blob/main/gender_coupon_engagement.png)
+## Visualizations
+![Coupon Usage by City](top_cities_coupon_usage.png)
+
+![Gender Engagement](gender_coupon_engagement.png)
 
 ## Technologies Used
 * Python
