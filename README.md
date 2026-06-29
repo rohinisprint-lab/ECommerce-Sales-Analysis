@@ -38,8 +38,10 @@ This project analyzes E-commerce sales data to understand customer behavior and 
 * **Top Insight 2:** [Example: Gender-based engagement shows higher activity in the 18-25 age bracket.]
 
 ## Visualizations
-!https://github.com/rohinisprint-lab/ECommerce-Sales-Analysis/blob/main/top_cities_coupon_usage.png[Coupon Usage by City](top_cities_coupon_usage.png)
-![Gender Engagement](gender_coupon_engagement.png)
+!https://github.com/rohinisprint-lab/ECommerce-Sales-Analysis/blob/main/top_cities_coupon_usage.png
+## Visualizations
+![Coupon Usage by City](top_cities_coupon_usage.png) 
+[![Gender Engagement]](https://github.com/rohinisprint-lab/ECommerce-Sales-Analysis/blob/main/gender_coupon_engagement.png)
 
 ## Technologies Used
 * Python
